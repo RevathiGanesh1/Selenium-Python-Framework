@@ -1,0 +1,45 @@
+2024-02-22 09:23:31,702:INFO: test_e2e: These are the smartphone listed
+2024-02-22 09:23:31,750:INFO: test_e2e: iphone X
+2024-02-22 09:23:31,770:INFO: test_e2e: Samsung Note 8
+2024-02-22 09:23:31,790:INFO: test_e2e: Nokia Edge
+2024-02-22 09:23:31,815:INFO: test_e2e: Blackberry
+2024-02-22 09:23:31,968:INFO: test_e2e: Blackberry selected
+2024-02-22 09:23:32,403:INFO: test_e2e: you have successfully checkout
+2024-02-22 09:23:37,716:INFO: test_e2e: your Nationality selected
+2024-02-22 09:23:38,060:INFO: test_e2e: product has been ordered successfully!!!!
+2024-02-22 09:23:41,512:INFO: test_formSubmission: Your firstname is entered
+2024-02-22 09:23:41,640:INFO: test_formSubmission: Your email ID is entered
+2024-02-22 09:23:41,709:INFO: test_formSubmission: Your password is entered
+2024-02-22 09:23:41,765:INFO: test_formSubmission: checkbox is selected
+2024-02-22 09:23:42,264:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-22 09:23:42,446:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-22 09:23:42,697:INFO: test_formSubmission: Your firstname is entered
+2024-02-22 09:23:42,697:INFO: test_formSubmission: Your firstname is entered
+2024-02-22 09:23:42,802:INFO: test_formSubmission: Your email ID is entered
+2024-02-22 09:23:42,802:INFO: test_formSubmission: Your email ID is entered
+2024-02-22 09:23:42,876:INFO: test_formSubmission: Your password is entered
+2024-02-22 09:23:42,876:INFO: test_formSubmission: Your password is entered
+2024-02-22 09:23:42,946:INFO: test_formSubmission: checkbox is selected
+2024-02-22 09:23:42,946:INFO: test_formSubmission: checkbox is selected
+2024-02-22 09:23:43,093:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-22 09:23:43,093:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-22 09:23:43,228:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-22 09:23:43,228:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:40:54,076:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:40:54,190:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:40:54,250:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:40:54,304:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:40:54,577:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:40:54,748:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:40:55,085:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:40:55,085:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:40:55,194:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:40:55,194:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:40:55,259:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:40:55,259:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:40:55,314:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:40:55,314:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:40:55,470:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:40:55,470:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:40:55,592:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:40:55,592:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!

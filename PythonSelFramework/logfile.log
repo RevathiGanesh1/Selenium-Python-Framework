@@ -1,0 +1,135 @@
+2024-02-24 20:21:42,225:INFO: test_e2e: These are the smartphone listed
+2024-02-24 20:21:42,345:INFO: test_e2e: iphone X
+2024-02-24 20:21:42,371:INFO: test_e2e: Samsung Note 8
+2024-02-24 20:21:42,397:INFO: test_e2e: Nokia Edge
+2024-02-24 20:21:42,422:INFO: test_e2e: Blackberry
+2024-02-24 20:21:42,506:INFO: test_e2e: Blackberry selected
+2024-02-24 20:21:42,907:INFO: test_e2e: you have successfully checkout
+2024-02-24 20:21:48,448:INFO: test_e2e: your Nationality selected
+2024-02-24 20:21:48,677:INFO: test_e2e: product has been ordered successfully!!!!
+2024-02-24 20:21:52,173:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:21:52,340:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:21:52,406:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:21:52,483:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:21:53,043:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:21:53,222:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:21:53,475:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:21:53,475:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:21:53,578:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:21:53,578:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:21:53,644:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:21:53,644:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:21:53,705:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:21:53,705:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:21:53,828:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:21:53,828:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:21:53,941:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:21:53,941:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:23:26,750:INFO: test_e2e: These are the smartphone listed
+2024-02-24 20:23:26,803:INFO: test_e2e: iphone X
+2024-02-24 20:23:26,824:INFO: test_e2e: Samsung Note 8
+2024-02-24 20:23:26,851:INFO: test_e2e: Nokia Edge
+2024-02-24 20:23:26,886:INFO: test_e2e: Blackberry
+2024-02-24 20:23:27,017:INFO: test_e2e: Blackberry selected
+2024-02-24 20:23:27,176:INFO: test_e2e: you have successfully checkout
+2024-02-24 20:23:32,634:INFO: test_e2e: your Nationality selected
+2024-02-24 20:23:32,885:INFO: test_e2e: product has been ordered successfully!!!!
+2024-02-24 20:23:36,386:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:23:36,497:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:23:36,559:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:23:36,618:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:23:36,816:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:23:36,984:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:23:37,368:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:23:37,368:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:23:37,468:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:23:37,468:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:23:37,531:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:23:37,531:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:23:37,597:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:23:37,597:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:23:37,717:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:23:37,717:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:23:37,829:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:23:37,829:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:51:58,351:INFO: test_e2e: These are the smartphone listed
+2024-02-24 20:51:58,420:INFO: test_e2e: iphone X
+2024-02-24 20:51:58,439:INFO: test_e2e: Samsung Note 8
+2024-02-24 20:51:58,458:INFO: test_e2e: Nokia Edge
+2024-02-24 20:51:58,474:INFO: test_e2e: Blackberry
+2024-02-24 20:51:58,544:INFO: test_e2e: Blackberry selected
+2024-02-24 20:51:58,854:INFO: test_e2e: you have successfully checkout
+2024-02-24 20:52:04,324:INFO: test_e2e: your Nationality selected
+2024-02-24 20:52:04,717:INFO: test_e2e: product has been ordered successfully!!!!
+2024-02-24 20:52:12,045:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:52:12,456:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:52:12,542:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:52:12,613:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:52:13,094:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:52:13,322:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:52:13,729:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:52:13,729:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 20:52:13,861:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:52:13,861:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 20:52:13,959:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:52:13,959:INFO: test_formSubmission: Your password is entered
+2024-02-24 20:52:14,070:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:52:14,070:INFO: test_formSubmission: checkbox is selected
+2024-02-24 20:52:14,287:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:52:14,287:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 20:52:14,455:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 20:52:14,455:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 21:13:06,293:INFO: test_e2e: These are the smartphone listed
+2024-02-24 21:13:06,501:INFO: test_e2e: iphone X
+2024-02-24 21:13:06,528:INFO: test_e2e: Samsung Note 8
+2024-02-24 21:13:06,550:INFO: test_e2e: Nokia Edge
+2024-02-24 21:13:06,566:INFO: test_e2e: Blackberry
+2024-02-24 21:13:06,633:INFO: test_e2e: Blackberry selected
+2024-02-24 21:13:06,798:INFO: test_e2e: you have successfully checkout
+2024-02-24 21:13:12,138:INFO: test_e2e: your Nationality selected
+2024-02-24 21:13:12,422:INFO: test_e2e: product has been ordered successfully!!!!
+2024-02-24 21:13:16,493:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 21:13:16,627:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 21:13:16,710:INFO: test_formSubmission: Your password is entered
+2024-02-24 21:13:16,793:INFO: test_formSubmission: checkbox is selected
+2024-02-24 21:13:17,036:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 21:13:17,226:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 21:13:17,498:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 21:13:17,498:INFO: test_formSubmission: Your firstname is entered
+2024-02-24 21:13:17,614:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 21:13:17,614:INFO: test_formSubmission: Your email ID is entered
+2024-02-24 21:13:17,711:INFO: test_formSubmission: Your password is entered
+2024-02-24 21:13:17,711:INFO: test_formSubmission: Your password is entered
+2024-02-24 21:13:17,785:INFO: test_formSubmission: checkbox is selected
+2024-02-24 21:13:17,785:INFO: test_formSubmission: checkbox is selected
+2024-02-24 21:13:17,945:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 21:13:17,945:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-24 21:13:18,081:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-24 21:13:18,081:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-26 11:03:54,551:INFO: test_e2e: These are the smartphone listed
+2024-02-26 11:03:54,654:INFO: test_e2e: iphone X
+2024-02-26 11:03:54,676:INFO: test_e2e: Samsung Note 8
+2024-02-26 11:03:54,693:INFO: test_e2e: Nokia Edge
+2024-02-26 11:03:54,709:INFO: test_e2e: Blackberry
+2024-02-26 11:03:54,771:INFO: test_e2e: Blackberry selected
+2024-02-26 11:03:55,149:INFO: test_e2e: you have successfully checkout
+2024-02-26 11:04:00,610:INFO: test_e2e: your Nationality selected
+2024-02-26 11:04:00,893:INFO: test_e2e: product has been ordered successfully!!!!
+2024-02-26 11:04:05,583:INFO: test_formSubmission: Your firstname is entered
+2024-02-26 11:04:05,688:INFO: test_formSubmission: Your email ID is entered
+2024-02-26 11:04:05,752:INFO: test_formSubmission: Your password is entered
+2024-02-26 11:04:05,811:INFO: test_formSubmission: checkbox is selected
+2024-02-26 11:04:06,241:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-26 11:04:06,418:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-26 11:04:06,634:INFO: test_formSubmission: Your firstname is entered
+2024-02-26 11:04:06,634:INFO: test_formSubmission: Your firstname is entered
+2024-02-26 11:04:06,728:INFO: test_formSubmission: Your email ID is entered
+2024-02-26 11:04:06,728:INFO: test_formSubmission: Your email ID is entered
+2024-02-26 11:04:06,786:INFO: test_formSubmission: Your password is entered
+2024-02-26 11:04:06,786:INFO: test_formSubmission: Your password is entered
+2024-02-26 11:04:06,848:INFO: test_formSubmission: checkbox is selected
+2024-02-26 11:04:06,848:INFO: test_formSubmission: checkbox is selected
+2024-02-26 11:04:06,968:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-26 11:04:06,968:INFO: test_formSubmission: Alert message is successfully pop up in display
+2024-02-26 11:04:07,079:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
+2024-02-26 11:04:07,079:INFO: test_formSubmission: Text Box filled up with Heyyy Reyyyy!!!!!!!!!
